@@ -1,0 +1,165 @@
+Year,Race/Ethnicity,Citywide        number (rate),Manhattan                   number (rate),Bronx                   number (rate),Brooklyn            number (rate),Queens               number (rate),Staten Island                  number  (rate)
+2000,Hispanic,49 (2.7),20 (5.2),9 (1.7),8 (1.7),12 (3.1),0
+2000,"White, non-Hispanic",73 (2.3),40 (5.5),1 (0.4),11 (1.2),7 (0.7),14 (4.6)
+2000,"Black, non-Hispanic",43 (2.3),21 (8.0),5 (1.4),14 (1.8),3 (0.8),0
+2000,"Other, non-Hispanic",7 (1.3),3 (2.7),0,2 (1.7),2 (0.8),0
+2000,Total,172 (2.3),84 (5.6),15 (1.2),35 (1.5),24 (1.2),14 (3.7)
+2001,Hispanic,41 (1.9),15 (3.6),16 (2.5),3 (0.6),6 (1.1),1 (1.9)
+2001,"White, non-Hispanic",41 (1.5),27 (3.8),4 (2.1),7 (0.8),0,3 (0.9)
+2001,"Black, non-Hispanic",33 (1.7),12 (5.1),5 (1.2),10 (1.2),6 (1.4),0
+2001,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",8 (1.0),4 (2.7),1 (2.4),2 (1.1),0,1 (3.9)
+2001,Total,123 (1.5),58 (3.8),26 (2.0),22 (0.9),12 (0.5),5 (1.1)
+2002,Hispanic,42 (1.9),15 (3.6),16 (2.5),5 (1.0),6 (1.1),0
+2002,"White, non-Hispanic",49 (1.7),37 (5.3),1 (0.5),7 (0.8),2 (0.3),2 (0.6)
+2002,"Black, non-Hispanic",52 (2.7),17 (7.2),10 (2.4),22 (2.6),3 (0.7),0
+2002,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",5 (0.6),2 (1.4),0,0,3 (0.8),0
+2002,Total,148 (1.8),71 (4.6),27 (2.0),34 (1.4),14 (0.6),2 (0.5)
+2003,Hispanic,43 (2.0),20 (4.8),10 (1.6),6 (1.2),6 (1.1),1 (1.9)
+2003,"White, non-Hispanic",42 (1.5),31 (4.4),1 (0.5),6 (0.7),4 (0.5),0
+2003,"Black, non-Hispanic",34 (1.7),12 (5.1),6 (1.4),13 (1.5),3 (0.7),0
+2003,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",6 (0.7),2 (1.4),2 (4.7),1 (0.5),1 (0.3),0
+2003,Total,125 (1.6),65 (4.2),19 (1.4),26 (1.1),14 (0.6),1 (0.2)
+2004,Hispanic,47 (2.2),15 (3.6),14 (2.2),10 (2.0),6 (1.1),2 (3.7)
+2004,"White, non-Hispanic",32 (1.1),24 (3.4),3 (1.5),2 (0.2),3 (0.4),0
+2004,"Black, non-Hispanic",52 (2.7),12 (5.1),15 (3.6),19 (2.2),5 (1.2),1 (2.5)
+2004,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",7 (0.9),1 (0.7),2 (4.7),2 (1.1),2 (0.5),0
+2004,Total,138 (1.7),52 (3.4),34 (2.6),33 (1.3),16 (0.7),3 (0.7)
+2005,Hispanic,47 (2.2),12 (2.9),25 (3.9),7 (1.4),3 (0.5),0
+2005,"White, non-Hispanic",38 (1.4),23 (3.3),3 (1.5),5 (0.6),5 (0.7),2 (0.6)
+2005,"Black, non-Hispanic",48 (2.4),16 (6.8),12 (2.9),18 (2.1),1 (0.2),1 (2.5)
+2005,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",11 (1.4),4 (2.7),0,1 (0.5),6 (1.5),0
+2005,Unknown,4,1,1,2,0,0
+2005,Total,148 (1.8),56 (3.6),41 (3.1),33 (1.3),15 (0.7),3 (0.7)
+2006,Hispanic,46 (2.1),15 (3.6),14 (2.2),8 (1.6),9 (1.6),0
+2006,"White, non-Hispanic",37 (1.3),25 (3.6),1 (0.5),7 (0.8),3 (0.4),1 (0.3)
+2006,"Black, non-Hispanic",49 (2.5),22 (9.4),11 (2.6),14 (1.6),2 (0.5),0
+2006,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",7 (0.9),1 (0.7),3 (7.1),2 (1.1),1 (0.3),0
+2006,Unknown,16,8,4,1,3,0
+2006,Total,155 (1.9),71 (4.6),33 (2.5),32 (1.3),18 (0.8),1 (0.2)
+2007,Hispanic,33 (1.5),9 (2.2),18 (2.8),4 (0.8),1 (0.2),1 (1.9)
+2007,"White, non-Hispanic",25 (0.9),18 (2.6),1 (0.5),3 (0.4),2 (0.3),1 (0.3)
+2007,"Black, non-Hispanic",38 (1.9),12 (5.1),12 (2.9),13 (1.5),1 (0.2),0
+2007,"Asian, Pacific Islander, American Indian,    Alaska Native, non-Hispanic",3 (0.4),0,1 (2.4),0,2 (0.5),0
+2007,Unknown,6,4,0,1,1,0
+2007,Total,105 (1.3),43 (2.8),32 (2.4),21 (0.9),7 (0.3),2 (0.5)
+2008,Hispanic,37 (1.6),18 (4.4),7 (1.0),4 (0.8),8 (1.3),0
+2008,"White, non-Hispanic",26 (0.9),15 (1.9),1 (0.6),8 (0.9),2 (0.3),0
+2008,"Black, non-Hispanic",34 (1.7),9 (3.9),6 (1.4),17 (2.0),2 (0.5),0
+2008,"Asian, Pacific Islander, American Indian,     Alaska Native, non-Hispanic",5 (0.5),1 (0.6),2 (3.9),1 (0.4),1 (0.2),0
+2008,"Two or more races, non-Hispanic",0,0,0,0,0,0
+2008,Unknown,5,3,1,1,0,0
+2008,Total,107 (1.3),46 (2.9),17 (1.2),31 (1.2),13 (0.6),0
+2009,Hispanic,22 (1.0),8 (2.0),5 (0.7),3 (0.6),6 (1.0),0
+2009,"White, non-Hispanic",24 (0.8),14 (1.7),0,3 (0.3),7 (1.0),0
+2009,"Black, non-Hispanic",26 (1.3),6 (2.7),3 (0.7),17 (2.0),0,0
+2009,"Asian, Pacific Islander, American Indian,     Alaska Native, non-Hispanic",4 (0.4),0,3 (5.7),0,1 (0.2),0
+2009,"Two or more races, non-Hispanic",2 (1.9),1 (4.4),1 (8.3),0,0,0
+2009,Unknown,2,0,2,0,0,0
+2009,Total,80 (1.0),29 (1.8),14 (1.0),23 (0.9),14 (0.6),0
+2010,Hispanic,34 (1.5),13 (3.4),16 (2.2),3 (0.6),2 (0.3),0
+2010,"White, non-Hispanic",26 (0.9),15 (1.8),1 (0.6),6 (0.6),3 (0.4),1 (0.3)
+2010,"Black, non-Hispanic",34 (1.7),9  (4.3),8 (1.8),15 (1.8),2 (0.5),0
+2010,"Asian, Pacific Islander, American Indian,     Alaska Native, non-Hispanic",5 (0.5),2 (1.1),0,2 (0.8),1 (0.2),0
+2010,"Two or more races, non-Hispanic",4 (3.8),1 (4.3),0,1 (3.5),2 (5.7),0
+2010,Unknown,4,3,0,1,0,0
+2010,Total,107 (1.3),43 (2.6),25 (1.8),28 (1.1),10 (0.4),1 (0.2)
+2011,Hispanic,26 (1.1),5 (1.2),12 (1.6),6 (1.2),3 (0.5),0
+2011,"White, non-Hispanic",29 (1.1),18 (2.4),0,7 (0.8),2 (0.3),2 (0.7)
+2011,"Black, non-Hispanic",16 (0.9),7 (3.4),1 (0.2),6 (0.8),2 (0.5),0
+2011,"Asian, non-Hispanic",4 (0.4),0,1 (2.1),0,3 (0.6),0
+2011,"Pacific Islander, Native Hawaiian,  non-Hispanic",0,0,0,0,0,0
+2011,"American Indian, non-Hispanic",0,0,0,0,0,0
+2011,"Other, non-Hispanic",1 (1.7),0,0,0,1 (3.1),0
+2011,"Two or more races, non-Hispanic",0,0,0,0,0,0
+2011,Unknown,10,7,1,1,1,0
+2011,Total,86 (1.1),37 (2.3),15 (1.1),20 (0.8),12 (0.5),2 (0.4)
+2012,Hispanic,30  (1.3),12 (3.0),11 (1.5),6 (1.2),1 (0.2),0
+2012,"White, non-Hispanic",41 (1.5),24 (3.2),0,9 (1.0),8 (1.3),0
+2012,"Black, non-Hispanic",33 (1.8),10 (4.9),8 (1.9),14 (1.8),1 (0.3),0
+2012,"Asian, non-Hispanic",7 (0.7),3 (1.7),2 (4.2),2 (0.8),0,0
+2012,"Pacific Islander, Native Hawaiian,  non-Hispanic",0,0,0,0,0,0
+2012,"American Indian, non-Hispanic",1 (5.7),1 (46.6),0,0,0,0
+2012,"Other, non-Hispanic",3 (1.5),2 (5.7),0,1 (2.0),0,0
+2012,Unknown,10,4,2,4,0,0
+2012,Total,125 (1.5),56 (3.5),23 (1.7),36 (1.4),10 (0.4),0
+2013,Hispanic,21 (0.9),4 (1.0),8 (1.0),2 (0.4),6 (0.9),1 (1.2)
+2013,"White, non-Hispanic",25 (0.9),16 (2.1),0,3 (0.3),5 (0.8),1 (0.3)
+2013,"Black, non-Hispanic",21 (1.1),9 (4.3),5 (1.2),6 (0.7),1 (0.2),0
+2013,"Asian, non-Hispanic",2 (0.2),1 (0.5),1 (1.9),0,0,0
+2013,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2013,"American Indian, non-Hispanic",0,0,0,0,0,0
+2013,"Two or more races, non-Hispanic",5 (3.9),3 (10.3),0,2 (5.3),0,0
+2013,Unknown,6,3,0,1,1,1
+2013,Total,80 (1.0),36 (2.2),14 (1.0),14 (0.5),13 (0.6),3 (0.6)
+2014,Hispanic,25 (1.0),12 (2.9),5 (0.7),3 (0.6),5 (0.8),0
+2014,"White, non-Hispanic",31 (1.1),18 (2.3),2 (1.3),7 (0.8),3 (0.5),1 (0.3)
+2014,"Black, non-Hispanic",30 (1.6),7 (3.3),11 (2.6),9 (1.1),3 (0.7),0
+2014,"Asian, non-Hispanic",7 (0.6),4 (2.1),1 (1.9),2 (0.7),0,0
+2014,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2014,"American Indian, non-Hispanic",0,0,0,0,0,0
+2014,"Two or more races, non-Hispanic",1 (0.8),0,1 (7.4),0,0,0
+2014,Unknown,8,5,2,0,1,0
+2014,Total,102 (1.0),46 (2.8),22 (1.6),21 (0.8),12 (0.5),1 (0.2)
+2015,Hispanic,34 (1.4),11 (2.6),14 (1.8),3 (0.6),6 (0.9),0
+2015,"White, non-Hispanic",56 (2.0),29 (3.8),3 (2.0),17 (1.8),5 (0.8),2 (0.7)
+2015,"Black, non-Hispanic",31 (1.6),10 (4.8),10 (2.3),10 (1.2),1 (0.2),0
+2015,"Asian, non-Hispanic",5 (0.4),2 (1.0),1 (1.8),1 (0.3),1 (0.2),0
+2015,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2015,"American Indian, non-Hispanic",0,0,0,0,0,0
+2015,"Two or more races, non-Hispanic",2 (1.4),1 (3.3),0,0,1 (2.2),0
+2015,Unknown,5,3,0,2,0,0
+2015,Total,133 (1.6),56 (3.4),28 (1.9),33 (1.3),14 (0.6),2 (0.4)
+2016,Hispanic,63 (2.5),25 (5.9),24 (3.0),5 (1.0),9 (1.4),0
+2016,"White, non-Hispanic",60 (2.2),36 (4.7),1 (0.7),21 (2.2),2 (0.3),0
+2016,"Black, non-Hispanic",41 (2.1),14 (6.7),9 (2.1),15 (1.9),2 (0.5),1 (2.2)
+2016,"Asian, non-Hispanic",15 (1.2),3 (1.5),2 (3.4),5 (1.6),4 (0.7),1 (2.5)
+2016,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2016,"American Indian, non-Hispanic",0,0,0,0,0,0
+2016,"Two or more races, non-Hispanic",1 (0.7),1 (3.2),0,0,0,0
+2016,Unknown,12,4,5,0,3,0
+2016,Total,192 (2.2),83 (5.0),41 (2.8),46 (1.7),20 (0.9),2 (0.4)
+2017,Hispanic,43 (1.7),14 (3.3),14 (1.7),4 (0.8),10 (1.5),1 (1.1)
+2017,"White, non-Hispanic",73 (2.7),41 (5.3),4 (3.0),18 (1.9),10 (1.7),0
+2017,"Black, non-Hispanic",26 (1.4),8 (3.9),10 (2.3),5 (0.6),3 (0.7),0
+2017,"Asian, non-Hispanic",9 (2.9),5 (6.0),0,2 (2.8),2 (1.3),0
+2017,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2017,"American Indian, non-Hispanic",0,0,0,0,0,0
+2017,"Two or more races, non-Hispanic",0,0,0,0,0,0
+2017,Unknown,12,9,0,1,1,1
+2017,Total,163 (1.9),77 (4.7),28 (1.9),30 (1.1),26 (1.1),2 (0.4)
+2018,Hispanic,54 (2.1),18 (4.1),17 (2.1),6 (1.2),13 (2.0),0
+2018,"White, non-Hispanic",118 (4.3),51 (6.6),2 (1.5),53 (5.5),11 (1.9),1 (0.3)
+2018,"Black, non-Hispanic",24 (1.3),6 (2.9),7 (1.6),9 (1.1),1 (0.2),1 (2.2)
+2018,"Asian, non-Hispanic",14 (1.1),5 (2.4),0,0,9 (1.4),0
+2018,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2018,"American Indian, non-Hispanic",0,0,0,0,0,0
+2018,"Two or more races, non-Hispanic",16 (10.8),5 (15.2),2 (14.4),3 (6.3),6 (12.6),0
+2018,Unknown,24,12,4,5,3,0
+2018,Total,250 (2.9),97 (5.9),32 (2.2),76 (2.9),43 (1.8),2 (0.4)
+2019,Hispanic,103 (4.2),24 (5.7),24 (3.0),19 (3.9),36 (5.6),0
+2019,"White, non-Hispanic",175 (6.5),74 (9.7),3 (2.3),80 (8.5),14 (2.5),4 (1.4)
+2019,"Black, non-Hispanic",61 (3.3),10 (4.9),23 (5.5),18 (2.3),9  (2.2),1 (2.2)
+2019,"Asian, non-Hispanic",16 (1.3),9 (4.4),1 (1.7),2 (0.6),3 (0.5),1 (2.1)
+2019,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2019,"American Indian, non-Hispanic",0,0,0,0,0,0
+2019,"Two or more races, non-Hispanic",11 (7.3),2 (6.0),3 (21.3),4 (8.2),1 (2.1),1 (14.1)
+2019,Unknown,29,11,3,10,5,0
+2019,Total,395 (4.7),130 (8.0),57 (4.0),133 (5.1,68 (3.0),7 (1.5)
+2020,Hispanic,40 (1.7),11 (2.6),15 (1.9),5 (1.0),8 (1.3),1 (1.1)
+2020,"White, non-Hispanic",54 (2.0),31 (4.0),4 (3.1),12 (1.3),5 (0.9),2 (0.7)
+2020,"Black, non-Hispanic",23 (1.3),3 (1.5),6 (1.4),9 (1.2),5 (1.2),0
+2020,"Asian, non-Hispanic",3 (0.2),0,0,2 (0.6),0,1 (2.0)
+2020,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2020,"American Indian, non-Hispanic",0,0,0,0,0,0
+2020,"Two or more races, non-Hispanic",2 (1.3),1 (2.9),0,1 (2.0),0,0
+2020,Unknown,13,8,2,3,0,0
+2020,Total,135 (1.6),54 (3.3),27 (1.9),32 (1.3),18 (0.8),4 (0.8)
+2021,Hispanic,82 (3.4),25 (6.0),29 (3.7),10 (2.1),18 (2.9),0
+2021,"White, non-Hispanic",107 (4.0),68 (9.0),2 (1.6),21 (2.2),12 (2.2),4 (1.4)
+2021,"Black, non-Hispanic",48 (2.7),12 (6.0),23 (5.6),10 (1.3),2 (0.5),1 (2.2)
+2021,"Asian, non-Hispanic",6 (0.5),3 (1.5),2 (3.4),1 (0.3),0,0
+2021,"Pacific Islander, Native Hawaiian, non-Hispanic",0,0,0,0,0,0
+2021,"American Indian, non-Hispanic",0,0,0,0,0,0
+2021,"Two or more races, non-Hispanic",7 (4.6),3 (8.7),0,1 (2.0),3 (6.4),0
+2021,Unknown,28,12,6,7,3,0
+2021,Total,278 (3.4),123 (7.6),62 (4.4),50 (2.0),38 (1.7),5 (1.1)
